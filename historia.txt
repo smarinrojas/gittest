@@ -2,3 +2,5 @@ esta es la historia de santiago
 y tiene 33 anos
 
 Manana nos enfocaremos en su vida laboral
+
+modificacion de archivo en cabecera
